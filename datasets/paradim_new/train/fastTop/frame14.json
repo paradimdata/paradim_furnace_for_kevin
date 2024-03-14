@@ -1,0 +1,70 @@
+{
+  "version": "3.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "critical_points",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          241,
+          139
+        ],
+        [
+          240,
+          159
+        ],
+        [
+          240,
+          187
+        ],
+        [
+          240,
+          209
+        ],
+        [
+          242,
+          235
+        ],
+        [
+          401,
+          236
+        ],
+        [
+          407,
+          215
+        ],
+        [
+          413,
+          190
+        ],
+        [
+          416,
+          167
+        ],
+        [
+          418,
+          148
+        ]
+      ],
+      "shape_type": "polygon"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "frame14.jpg",
+  "imageData": null,
+  "imageHeight": 432,
+  "imageWidth": 576
+}

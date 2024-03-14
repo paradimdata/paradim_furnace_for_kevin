@@ -1,0 +1,70 @@
+{
+  "version": "3.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "critical_points",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          244,
+          150
+        ],
+        [
+          252,
+          180
+        ],
+        [
+          254,
+          201
+        ],
+        [
+          256,
+          223
+        ],
+        [
+          255,
+          241
+        ],
+        [
+          380,
+          241
+        ],
+        [
+          384,
+          222
+        ],
+        [
+          389,
+          204
+        ],
+        [
+          400,
+          182
+        ],
+        [
+          411,
+          159
+        ]
+      ],
+      "shape_type": "polygon"
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": "goodMelt5.jpg",
+  "imageData": null,
+  "imageHeight": 432,
+  "imageWidth": 576
+}
